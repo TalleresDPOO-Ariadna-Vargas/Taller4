@@ -1,0 +1,1 @@
+Al comienzo este se abrira y le pedira un nombre para guardarlo como jugador. Puede cambiar el tamaño y la dificultad. Si desea cambiar el jugador, es decir el nombre solo haga click en el boton Cambiar Jugador. Para ver top 10 haga click en el boton. Y para reiniciar haga click en el boton.
